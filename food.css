@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    color:rgb(70, 70, 70);
+    margin: 0;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 60px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.half-width img{
+    margin-top: 33px;
+    width: 80%;
+}
+
+#firstdiv{
+    padding-top: 200px;
+}
+.batton{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 42;
+    
+}
+#secnd-section{
+    height: 500px;
+    margin-top: 20px;
+}
+#secnd-div{
+    padding-top: 120px;
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.recipies{
+    margin-right: 7%;
+    margin-left: 5%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 21px;
+    box-shadow: 10px 10px 20px gray;
+}
+.recipies img{
+    width: 100%;
+}
+.recipies h1{
+    font-size: 30px;
+    padding-top: 20px;
+}
+.bottom-bundel{
+    margin-right: 7%;
+    margin-left: 5%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+.bottom{
+    margin-right: 10%;
+    margin-left: 13%;
+    
+}
+footer{
+    background-color: black;
+    height: 170px;
+    padding-top: 50px;
+}
+footer h2{
+    color: gray;
+}
+footer p{
+    color: white;
+}
